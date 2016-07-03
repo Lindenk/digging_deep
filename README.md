@@ -1,6 +1,6 @@
 # Digging Deep #
 
-This is a Factorio mod that adds a new underground area(s) to find and explore.
+This is a [Factorio](https://www.factorio.com) mod that adds a new underground area(s) to find and explore.
 
 ## Additions ##
 
