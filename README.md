@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/Lindenk/digging_deep.svg?label=ready&title=Ready)](http://waffle.io/Lindenk/digging_deep)
+
 # Digging Deep #
 
 This is a [Factorio](https://www.factorio.com) mod that adds a new underground area(s) to find and explore.
