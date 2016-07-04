@@ -67,6 +67,10 @@ Transmits power and wire signals from above ground to underground.
 
 Provides power when built on top of a geothermal vent.
 
+#### Magma Forge ####
+
+Must be placed on underground volcanic tiles. Can be used to craft higher tier items.
+
 
 ### Consumable ###
 
@@ -104,18 +108,18 @@ Reveals caverns on the map in a very large area around launch site.
 
 ### Underground ###
 
-#### Magma Forge ####
+#### Volcanic tiles ####
 
-Used to make higher level items. Found in tech 1 underground areas.
+A magma forge can be placed on these. Used to make higher level items. Found in larger areas in higher teir caverns.
 
 #### Underground Ore Field ####
 
 Large deposits of generated ore (iron, copper, coal, or stone in vanilla)
 
-#### Underground Diamonite Deposit ####
+#### Underground Diamonite or Strominium Deposit ####
 
-Deposit of diamonite ore. Deposits are larger in higher tech caverns.
+Deposit of diamonite and/or strominium ore. Deposits are larger in higher teir caverns.
 
 #### Geothermal Vent ####
 
-Found in larger quantities in higher tech caverns. Provides power with a geothermal generator is built on top.
+Found in larger quantities in higher teir caverns. Provides power with a geothermal generator is built on top.
