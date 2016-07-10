@@ -5,5 +5,7 @@
 
 cd $(dirname "$0")
 
+export VERSION=`cat src/info.json | grep \"version\" | sed -r 's/.*: \"([0-9]+\.[0-9]+\.[0-9]+)\".*/\1/'`
+
 mkdir bin
-zip -r bin/digging_deep.zip src/ 
+zip -r "bin/DiggingDeep_$VERSION.zip" src/
