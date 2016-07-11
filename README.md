@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Lindenk/digging_deep.svg?branch=master)](https://travis-ci.org/Lindenk/digging_deep)
 [![Stories in Ready](https://badge.waffle.io/Lindenk/digging_deep.svg?label=ready&title=Ready)](http://waffle.io/Lindenk/digging_deep)
 
 # Digging Deep #
