@@ -5,6 +5,10 @@
 
 This is a [Factorio](https://www.factorio.com) mod that adds a new underground area(s) to find and explore.
 
+# Installation #
+
+Each release should have the zipped mod attached to it which can be placed in Factorio's mods folder. Alternitively, the mod will also be available in the Factorio mod portal.
+
 ## Additions ##
 
 Planned features for release:
